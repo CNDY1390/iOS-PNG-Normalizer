@@ -16,6 +16,7 @@ v1.1
 
 v2.0
 - 本仓库
+- 使用Python3改写
 - 优化：将字符串拼接改为list实现，大幅提升效率（原v1.1版本难以转换1000px*1000px左右的图片）
 
 
@@ -38,6 +39,7 @@ v1.1
 
 v2.0
 - This repo
+- Rebuild with Python3
 - Optimize: efficiency on huge pictures
 
 # License
