@@ -41,6 +41,7 @@ v2.0
 - Optimize: efficiency on huge pictures
 
 # License
+GPL3.0
 General Public License 3.0
 
 
