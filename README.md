@@ -7,7 +7,7 @@ iOS-PNG-正常化工具
 v1.0
 - http://www.axelbrz.com.ar/?mod=iphone-png-images-normalizer
 - 作者: [Axel E. Brzostowski](http://www.axelbrz.com.ar)
-#  axelbrz@gmail.com
+  - axelbrz@gmail.com
 based on  with a fix for multiple IDAT
 
 v1.1
@@ -30,7 +30,7 @@ Decode PNG files in iOS, such as those not viewable in IPA files.
 v1.0
 - http://www.axelbrz.com.ar/?mod=iphone-png-images-normalizer
 - Author: [Axel E. Brzostowski](http://www.axelbrz.com.ar)
-#  axelbrz@gmail.com
+  - axelbrz@gmail.com
 based on  with a fix for multiple IDAT
 
 v1.1
