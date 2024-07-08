@@ -12,7 +12,7 @@ v1.0
 v1.1
 - https://gist.github.com/3609051
 - 修复：a bug for multiple IDAT
-- 作者：([urielka](https://gist.github.com/urielka))
+- 作者：[urielka](https://gist.github.com/urielka)
 
 v2.0
 - 本仓库
@@ -34,7 +34,7 @@ v1.0
 v1.1
 - https://gist.github.com/3609051
 - Fix: a bug for multiple IDAT
-- Author: ([urielka](https://gist.github.com/urielka))
+- Author: [urielka](https://gist.github.com/urielka)
 
 v2.0
 - This repo
