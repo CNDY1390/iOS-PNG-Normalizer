@@ -8,7 +8,6 @@ v1.0
 - http://www.axelbrz.com.ar/?mod=iphone-png-images-normalizer
 - 作者: [Axel E. Brzostowski](http://www.axelbrz.com.ar)
   - axelbrz@gmail.com
-based on  with a fix for multiple IDAT
 
 v1.1
 - https://gist.github.com/3609051
@@ -31,7 +30,6 @@ v1.0
 - http://www.axelbrz.com.ar/?mod=iphone-png-images-normalizer
 - Author: [Axel E. Brzostowski](http://www.axelbrz.com.ar)
   - axelbrz@gmail.com
-based on  with a fix for multiple IDAT
 
 v1.1
 - https://gist.github.com/3609051
